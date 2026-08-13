@@ -9,8 +9,7 @@
   <a href="mailto:mateojl2404@gmail.com">
     <img src="https://img.shields.io/badge/Email-mateojl2404%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- TODO: replace the URL below with your real LinkedIn profile, then delete this comment -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/mateo-jaramillo-londoño-b2a475226">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
