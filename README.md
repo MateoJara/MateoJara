@@ -64,13 +64,6 @@ every data structure implemented from scratch.
 
 `C++17` · `Huffman coding` · `Graph algorithms` · `Dijkstra` · `File I/O` · `OOP`
 
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateoJara&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Mateo's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJara&layout=compact&hide_border=true&theme=default" alt="Top languages">
 </p>
 
 ---
