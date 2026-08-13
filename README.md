@@ -29,21 +29,6 @@ data structures from first principles, and building the tools that make data usa
 
 ## 🛠️ Tech I work with
 
-**Data & analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-**Programming**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Tools & practices**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
@@ -51,8 +36,6 @@ data structures from first principles, and building the tools that make data usa
 ---
 
 ## 🎓 Academic foundation
-
-Semesters 1–5 of the [Ciencia de Datos program](https://www.javeriana.edu.co/carrera-ciencia-de-datos) at Pontificia Universidad Javeriana.
 
 **Statistics & modeling**
 
@@ -65,7 +48,9 @@ Semesters 1–5 of the [Ciencia de Datos program](https://www.javeriana.edu.co/c
 **Data engineering & programming**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 `Databases` `Data Structures` `OOP` `Data Governance` `Large-Scale Processing`
 
@@ -82,7 +67,6 @@ Semesters 1–5 of the [Ciencia de Datos program](https://www.javeriana.edu.co/c
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 `Dashboards` `Data Storytelling`
 
