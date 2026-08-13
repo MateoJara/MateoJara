@@ -52,17 +52,43 @@ data structures from first principles, and building the tools that make data usa
 
 ## 🎓 Academic foundation
 
-Coursework from the [Ciencia de Datos program](https://www.javeriana.edu.co/carrera-ciencia-de-datos) at
-Pontificia Universidad Javeriana, semesters 1–5:
+Semesters 1–5 of the [Ciencia de Datos program](https://www.javeriana.edu.co/carrera-ciencia-de-datos) at Pontificia Universidad Javeriana.
 
-| Area | What it gave me | Coursework |
-|---|---|---|
-| **Statistics & modeling** | Hypothesis testing, regression modeling, the linear algebra behind ML | Probability Theory · Statistical Inference · Regression Analysis · Linear Algebra · Vector Calculus |
-| **Data engineering** | Relational schema design, data governance, large-scale data processing | Databases · Data Structures · Data Curation & Governance · Large-Scale Data Processing |
-| **Programming** | OOP, algorithms, software engineering fundamentals | Intro to Programming · Advanced Programming · Software Development Principles |
-| **Data science & AI** | The end-to-end DS workflow, first exposure to ML | Intro to Data Science · Intro to Artificial Intelligence · Machine Learning Foundations |
-| **Visualization** | Turning analysis into dashboards a non-technical audience can act on | Data Visualization |
-| **Business context** | Economic reasoning and project management for scoping data problems | Economics (Micro/Macro) · Project Management |
+**Statistics & modeling**
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+`Probability` `Statistical Inference` `Regression` `Linear Algebra`
+
+**Data engineering & programming**
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+`Databases` `Data Structures` `OOP` `Data Governance` `Large-Scale Processing`
+
+**Data science & AI**
+
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+`Data Science Workflow` `AI Foundations` `Machine Learning`
+
+**Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+`Dashboards` `Data Storytelling`
+
+**Business context**
+
+`Economics` `Project Management`
 
 ---
 
