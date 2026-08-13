@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mateo Jaramillo 👋</h1>
 
-<!--
-**MateoJara/MateoJara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Science student</b> at Pontificia Universidad Javeriana · Bogotá, Colombia 🇨🇴<br>
+  Turning messy data into decisions — and occasionally writing a Huffman tree by hand.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:mateojl2404@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mateojl2404%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <!-- TODO: replace the URL below with your real LinkedIn profile, then delete this comment -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About me
+
+I'm studying **Data Science** at Pontificia Universidad Javeriana, where I've spent as much time on
+the engineering side of data as the analysis side — designing relational schemas, implementing
+data structures from first principles, and building the tools that make data usable.
+
+- 🔭 **Currently building:** analytics projects that go end-to-end — from raw data to a dashboard someone would actually use
+- 🌱 **Currently learning:** statistical modeling, machine learning, and getting properly good at Python's data stack
+- 🎯 **Looking for:** a **data analytics / data science internship** where I can contribute and learn from people who do this every day
+- 💬 **Ask me about:** relational database design, Huffman coding, or why graph algorithms show up in bioinformatics
+- 🌐 **Languages:** Spanish (native) · English (professional working proficiency)
+
+---
+
+## 🛠️ Tech I work with
+
+**Data & analytics**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**Programming**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & practices**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+Also comfortable with: entity-relationship and star-schema modeling, C4 architecture diagrams,
+and writing the design docs and test plans that go with a project.
+
+---
+
+## 📌 Featured project
+
+### 🧬 [Genome Sequence Analyzer](https://github.com/MateoJara/genome-sequence-analyzer)
+
+A C++17 bioinformatics CLI for analyzing DNA sequences in FASTA format — **no external libraries**,
+every data structure implemented from scratch.
+
+- **Lossless Huffman compression at 74%** — a 5,434-byte sequence file packs down to 1,415 bytes, and the round-trip decodes byte-for-byte identical to the original
+- **Dijkstra's shortest path** over a weighted graph built from the base matrix, to navigate between nucleotide positions
+- Subsequence search, masking, and base-composition histograms across multiple loaded sequences
+- Compiles clean with `-Wall`; ships with sample data, a design document and a test plan
+
+`C++17` · `Huffman coding` · `Graph algorithms` · `Dijkstra` · `File I/O` · `OOP`
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MateoJara&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Mateo's GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateoJara&layout=compact&hide_border=true&theme=default" alt="Top languages">
+</p>
+
+---
+
+<p align="center">
+  <i>Open to internship and entry-level opportunities in data analytics and data science.</i><br>
+  <b>📫 <a href="mailto:mateojl2404@gmail.com">mateojl2404@gmail.com</a></b>
+</p>
