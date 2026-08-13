@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 About me
+##  About me
 
 I'm studying **Data Science** at Pontificia Universidad Javeriana, where I've spent as much time on
 the engineering side of data as the analysis side — designing relational schemas, implementing
@@ -27,7 +27,7 @@ data structures from first principles, and building the tools that make data usa
 
 ---
 
-## 🛠️ Tech I work with
+##  Tech I work with
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -37,7 +37,7 @@ data structures from first principles, and building the tools that make data usa
 
 ---
 
-## 🎓 Academic foundation
+##  Academic foundation
 
 **Statistics & modeling**
 
@@ -76,21 +76,6 @@ data structures from first principles, and building the tools that make data usa
 
 `Economics` `Project Management`
 
----
-
-## 📌 Featured project
-
-### 🧬 [Genome Sequence Analyzer](https://github.com/MateoJara/genome-sequence-analyzer)
-
-A C++17 bioinformatics CLI for analyzing DNA sequences in FASTA format — **no external libraries**,
-every data structure implemented from scratch.
-
-- **Lossless Huffman compression at 74%** — a 5,434-byte sequence file packs down to 1,415 bytes, and the round-trip decodes byte-for-byte identical to the original
-- **Dijkstra's shortest path** over a weighted graph built from the base matrix, to navigate between nucleotide positions
-- Subsequence search, masking, and base-composition histograms across multiple loaded sequences
-- Compiles clean with `-Wall`; ships with sample data, a design document and a test plan
-
-`C++17` · `Huffman coding` · `Graph algorithms` · `Dijkstra` · `File I/O` · `OOP`
 
 ---
 
