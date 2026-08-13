@@ -50,6 +50,22 @@ data structures from first principles, and building the tools that make data usa
 
 ---
 
+## 🎓 Academic foundation
+
+Coursework from the [Ciencia de Datos program](https://www.javeriana.edu.co/carrera-ciencia-de-datos) at
+Pontificia Universidad Javeriana, semesters 1–5:
+
+| Area | What it gave me | Coursework |
+|---|---|---|
+| **Statistics & modeling** | Hypothesis testing, regression modeling, the linear algebra behind ML | Probability Theory · Statistical Inference · Regression Analysis · Linear Algebra · Vector Calculus |
+| **Data engineering** | Relational schema design, data governance, large-scale data processing | Databases · Data Structures · Data Curation & Governance · Large-Scale Data Processing |
+| **Programming** | OOP, algorithms, software engineering fundamentals | Intro to Programming · Advanced Programming · Software Development Principles |
+| **Data science & AI** | The end-to-end DS workflow, first exposure to ML | Intro to Data Science · Intro to Artificial Intelligence · Machine Learning Foundations |
+| **Visualization** | Turning analysis into dashboards a non-technical audience can act on | Data Visualization |
+| **Business context** | Economic reasoning and project management for scoping data problems | Economics (Micro/Macro) · Project Management |
+
+---
+
 ## 📌 Featured project
 
 ### 🧬 [Genome Sequence Analyzer](https://github.com/MateoJara/genome-sequence-analyzer)
@@ -63,8 +79,6 @@ every data structure implemented from scratch.
 - Compiles clean with `-Wall`; ships with sample data, a design document and a test plan
 
 `C++17` · `Huffman coding` · `Graph algorithms` · `Dijkstra` · `File I/O` · `OOP`
-
-</p>
 
 ---
 
