@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mateo Jaramillo 👋</h1>
+<h1 align="center">Hi, I'm Mateo Jaramillo </h1>
 
 <p align="center">
   <b>Data Science student</b> at Pontificia Universidad Javeriana · Bogotá, Colombia 🇨🇴<br>
@@ -21,9 +21,9 @@ I'm studying **Data Science** at Pontificia Universidad Javeriana, where I've sp
 the engineering side of data as the analysis side — designing relational schemas, implementing
 data structures from first principles, and building the tools that make data usable.
 
-- 🌱 **Currently learning:** statistical modeling, machine learning, and getting properly good at Python's data stack
-- 🎯 **Looking for:** a **data analytics / data science internship** where I can contribute and learn from people who do this every day
-- 🌐 **Languages:** Spanish (native) · English (professional working proficiency)
+-  **Currently learning:** statistical modeling, machine learning, and getting properly good at Python's data stack
+-  **Looking for:** a **data analytics / data science internship** where I can contribute and learn from people who do this every day
+-  **Languages:** Spanish (native) · English (professional working proficiency)
 
 ---
 
