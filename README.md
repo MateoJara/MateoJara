@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Mateo Jaramillo </h1>
-
+<!-- Banner superior con los colores de Colombia -->
 <p align="center">
-  <b>Data Science student</b> at Pontificia Universidad Javeriana · Bogotá, Colombia 🇨🇴<br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FCD116,50:003893,100:CE1126&height=200&section=header&text=Mateo%20Jaramillo&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Science%20%C2%B7%20Javeriana%20%C2%B7%20Bogot%C3%A1&descSize=18&descAlignY=55&animation=fadeIn" alt="Mateo Jaramillo" width="100%">
+</p>
+
+<!-- Línea que se escribe sola -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=CE1126&center=true&vCenter=true&width=520&lines=Data+Science+student+at+Javeriana;Python+%C2%B7+R+%C2%B7+SQL+%C2%B7+Spark;Turning+data+into+decisions;Looking+for+a+data+internship" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -44,6 +48,7 @@ data structures from first principles, and building the tools that make data usa
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
 `Probability` `Statistical Inference` `Regression` `Linear Algebra`
 
@@ -52,6 +57,7 @@ data structures from first principles, and building the tools that make data usa
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -62,6 +68,7 @@ data structures from first principles, and building the tools that make data usa
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 `Data Science Workflow` `AI Foundations` `Machine Learning`
 
@@ -83,4 +90,9 @@ data structures from first principles, and building the tools that make data usa
 <p align="center">
   <i>Open to internship and entry-level opportunities in data analytics and data science.</i><br>
   <b>📫 <a href="mailto:mateojl2404@gmail.com">mateojl2404@gmail.com</a></b>
+</p>
+
+<!-- Banner inferior: la misma ola, invertida -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE1126,50:003893,100:FCD116&height=120&section=footer" alt="" width="100%">
 </p>
